@@ -1,0 +1,5 @@
+tmp
+node_modules
+.env
+fixtures-lock.json
+.Ds_Store
